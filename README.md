@@ -1,1 +1,2 @@
-# ropasci
+# Ropasci
+Rock, Paper, Scissors Game
